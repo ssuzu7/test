@@ -1,0 +1,15 @@
+body {
+    font-family: "Hiragino Kaku Gothic ProN"
+}
+
+.top-wrapper {
+    background-image: url(/Users/shunichi/Documents/HTML_Test/自己紹介/IMG_7335.JPG);
+    color: white;
+    background-size: cover;
+}
+
+.container {
+    padding: 0 15px 0 15px;
+    margin: 0 auto;
+    height: 1000px;
+}
